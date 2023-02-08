@@ -1,3 +1,4 @@
+importScripts("https://arc.io/arc-sw-core.js");
 importScripts("./uv/uv.sw.js");
 importScripts("./osana/osana.worker.js");
 
